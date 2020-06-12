@@ -1,2 +1,1 @@
-# HackerRankSolutions
-Solutions to practice interview problems in Hackerrank
+Leet code and HackerRank challenges
